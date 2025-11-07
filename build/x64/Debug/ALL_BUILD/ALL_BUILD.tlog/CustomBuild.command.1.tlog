@@ -1,0 +1,10 @@
+^C:\USERS\YARE\DESKTOP\YO BIEN C++\SI\DS-UNIDAD-2-ACTIVIDAD-2-LISTASENLAZADAS-DULCEYARETZIMARTINEZPEREZ\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/Yare/Desktop/yo bien c++/si/ds-unidad-2-actividad-2-listasenlazadas-DulceYaretziMartinezPerez" "-BC:/Users/Yare/Desktop/yo bien c++/si/ds-unidad-2-actividad-2-listasenlazadas-DulceYaretziMartinezPerez/build" --check-stamp-file "C:/Users/Yare/Desktop/yo bien c++/si/ds-unidad-2-actividad-2-listasenlazadas-DulceYaretziMartinezPerez/build/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

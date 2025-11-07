@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Yare\Desktop\yo bien c++\si\ds-unidad-2-actividad-2-listasenlazadas-DulceYaretziMartinezPerez\build\CMakeFiles\b5959848815c01db7ca3beb4110d47b1\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{710C4C00-4A46-364D-9134-B41709A6C95C}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

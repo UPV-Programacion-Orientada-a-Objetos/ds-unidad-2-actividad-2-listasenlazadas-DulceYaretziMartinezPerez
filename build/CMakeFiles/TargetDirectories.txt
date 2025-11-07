@@ -1,0 +1,4 @@
+C:/Users/Yare/Desktop/yo bien c++/si/ds-unidad-2-actividad-2-listasenlazadas-DulceYaretziMartinezPerez/build/CMakeFiles/decodificador.dir
+C:/Users/Yare/Desktop/yo bien c++/si/ds-unidad-2-actividad-2-listasenlazadas-DulceYaretziMartinezPerez/build/CMakeFiles/INSTALL.dir
+C:/Users/Yare/Desktop/yo bien c++/si/ds-unidad-2-actividad-2-listasenlazadas-DulceYaretziMartinezPerez/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Yare/Desktop/yo bien c++/si/ds-unidad-2-actividad-2-listasenlazadas-DulceYaretziMartinezPerez/build/CMakeFiles/ZERO_CHECK.dir

@@ -1,0 +1,10 @@
+^C:\USERS\YARE\DESKTOP\YO BIEN C++\SI\DS-UNIDAD-2-ACTIVIDAD-2-LISTASENLAZADAS-DULCEYARETZIMARTINEZPEREZ\BUILD\CMAKEFILES\B5959848815C01DB7CA3BEB4110D47B1\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/Yare/Desktop/yo bien c++/si/ds-unidad-2-actividad-2-listasenlazadas-DulceYaretziMartinezPerez" "-BC:/Users/Yare/Desktop/yo bien c++/si/ds-unidad-2-actividad-2-listasenlazadas-DulceYaretziMartinezPerez/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/Yare/Desktop/yo bien c++/si/ds-unidad-2-actividad-2-listasenlazadas-DulceYaretziMartinezPerez/build/DecodificadorPRT7.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
